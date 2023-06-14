@@ -66,6 +66,19 @@ a {
   margin:20px;
 }
 
+.resumé {
+  display:flex;
+  flex-direction: column;
+  font-size:xx-large;
+  color: maroon;
+  padding:20px;
+  margin:20px;
+}
+
+.resumé:hover {
+  color: rebeccapurple;
+}
+
 
 
 /* positions article image and adds border design */
@@ -120,6 +133,7 @@ article:after
 .other-apps {
   display:flex;
   justify-content: center;
+  columns: auto;
 }
 
 /* changes second and third app imgs flex-direction to columns on phones */
@@ -221,6 +235,10 @@ section .link:hover{
   background-color: skyblue;
   border: solid #2a607c thick; 
   border-radius: 10%;
+}
+
+#tech-blog {
+  object-position: 0%;
 }
 
 /* adds dancing smiley faces to bottom of page body */
