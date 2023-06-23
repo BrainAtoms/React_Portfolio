@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.e7360883.css",
-    "main.js": "/React_Portfolio/static/js/main.a99baa04.js",
+    "main.css": "/React_Portfolio/static/css/main.c9326fbd.css",
+    "main.js": "/React_Portfolio/static/js/main.e24a5e0a.js",
     "static/media/Screen_Shot 2023-05-09 at 9.25.18 PM (2).png": "/React_Portfolio/static/media/Screen_Shot 2023-05-09 at 9.25.18 PM (2).102aa217b570af7bbe8a.png",
     "static/media/IMG_5423.jpg": "/React_Portfolio/static/media/IMG_5423.94e0d49f4cbe94da6c27.jpg",
     "static/media/IMG_9822.jpg": "/React_Portfolio/static/media/IMG_9822.0f8b9ff61c6fb59652dc.jpg",
@@ -10,11 +10,11 @@
     "static/media/coding_quiz.png": "/React_Portfolio/static/media/coding_quiz.64a71d7def3ac4dc3e97.png",
     "static/media/Character_Generator.png": "/React_Portfolio/static/media/Character_Generator.9a2cf103602f16dce727.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.e7360883.css.map": "/React_Portfolio/static/css/main.e7360883.css.map",
-    "main.a99baa04.js.map": "/React_Portfolio/static/js/main.a99baa04.js.map"
+    "main.c9326fbd.css.map": "/React_Portfolio/static/css/main.c9326fbd.css.map",
+    "main.e24a5e0a.js.map": "/React_Portfolio/static/js/main.e24a5e0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7360883.css",
-    "static/js/main.a99baa04.js"
+    "static/css/main.c9326fbd.css",
+    "static/js/main.e24a5e0a.js"
   ]
 }
