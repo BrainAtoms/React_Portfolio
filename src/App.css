@@ -96,6 +96,14 @@ a {
   background-color: lightseagreen
 }
 
+#resumé {
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  margin-right: 615px;
+  position: relative
+}
+
 
 /* positions article image and adds border design */
 .article img {

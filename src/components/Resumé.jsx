@@ -3,7 +3,8 @@ import "../App.css";
 
 function Resumé() {
     return (
-        <section id="Resumé">
+        <div>
+        <section className="titles" id="resumé">
             <h3>
                 <a
                     className="resumé"
@@ -12,7 +13,8 @@ function Resumé() {
                     View Resumé
                 </a>
             </h3>
-        </section>);
+            </section>
+            </div>);
 }
 
 export default Resumé; 
