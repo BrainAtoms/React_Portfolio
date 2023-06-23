@@ -7,7 +7,7 @@ function Portfolio() {
         <h2 className="titles" id="Portfolio">
           Portfolio
         </h2>
-<section className="first-app">
+<section className="other-apps">
         <section className="first-app">
           <a href="https://www.arborlaborunion.com">
             <img src={require("../images/IMG_9822.jpg")} alt="ALU/"></img>

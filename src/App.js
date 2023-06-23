@@ -26,9 +26,6 @@ function App() {
             <li>
               <p className="navLink" onClick={() => handleClick("Resumé")}>Resumé</p>
             </li>
-            <li>
-              <p className="navLink" onClick={() => handleClick("Contact")}>Contact</p>
-            </li>
           </ul>
         </nav>
       </header>

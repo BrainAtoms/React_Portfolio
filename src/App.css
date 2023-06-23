@@ -139,16 +139,11 @@ article:after
 }
 
 /* rescales size of first app img link and brings to center of page */
-.first-app {
-  display:flex;
-  flex-direction: row;
-  align-items:center;
-}
 
 .other-apps {
   display:flex;
-  justify-content: space-evenly;
-  flex-direction: row;
+  flex-direction: column;
+  align-items:center;
 }
 
 /* changes second and third app imgs flex-direction to columns on phones */
