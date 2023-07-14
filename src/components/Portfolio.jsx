@@ -96,6 +96,23 @@ function Portfolio() {
                 <p>Randomize D&D Stats</p>
               </a>
             </section>
+            </section>
+            <section className="other-app2">
+            <a href="https://afternoon-mesa-22613-3fdd9a909bc7.herokuapp.com/">
+              <img
+                src={require("../images/Screen Shot 2023-07-14 at 12.22.40 AM (2).png")}
+                alt="Trip_Planner/"
+              ></img>
+            </a>
+            <section className="text-block3">
+              <a
+                href="https://github.com/Ruskin20/Travel-Log"
+                className="link"
+              >
+                <h4>Trip Planner</h4>
+                <p>Search and Save Food and Fun</p>
+              </a>
+            </section>
           </section>
             </section>
             </section>
