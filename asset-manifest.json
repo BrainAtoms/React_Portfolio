@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.c9326fbd.css",
-    "main.js": "/React_Portfolio/static/js/main.f9bacdcc.js",
+    "main.css": "/React_Portfolio/static/css/main.b6e52d93.css",
+    "main.js": "/React_Portfolio/static/js/main.097d8506.js",
     "static/media/Screen_Shot 2023-05-09 at 9.25.18 PM (2).png": "/React_Portfolio/static/media/Screen_Shot 2023-05-09 at 9.25.18 PM (2).102aa217b570af7bbe8a.png",
     "static/media/Screen Shot 2023-07-14 at 12.22.40 AM (2).png": "/React_Portfolio/static/media/Screen Shot 2023-07-14 at 12.22.40 AM (2).0f3e595067702885bdd1.png",
     "static/media/IMG_5423.jpg": "/React_Portfolio/static/media/IMG_5423.94e0d49f4cbe94da6c27.jpg",
     "static/media/IMG_9822.jpg": "/React_Portfolio/static/media/IMG_9822.0f8b9ff61c6fb59652dc.jpg",
-    "static/media/Tech_Blog.png": "/React_Portfolio/static/media/Tech_Blog.8a66af10098300f5283f.png",
     "static/media/Weather_Dashboard.png": "/React_Portfolio/static/media/Weather_Dashboard.536e95b0a6a808e83e06.png",
     "static/media/coding_quiz.png": "/React_Portfolio/static/media/coding_quiz.64a71d7def3ac4dc3e97.png",
     "static/media/Character_Generator.png": "/React_Portfolio/static/media/Character_Generator.9a2cf103602f16dce727.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.c9326fbd.css.map": "/React_Portfolio/static/css/main.c9326fbd.css.map",
-    "main.f9bacdcc.js.map": "/React_Portfolio/static/js/main.f9bacdcc.js.map"
+    "main.b6e52d93.css.map": "/React_Portfolio/static/css/main.b6e52d93.css.map",
+    "main.097d8506.js.map": "/React_Portfolio/static/js/main.097d8506.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9326fbd.css",
-    "static/js/main.f9bacdcc.js"
+    "static/css/main.b6e52d93.css",
+    "static/js/main.097d8506.js"
   ]
 }
