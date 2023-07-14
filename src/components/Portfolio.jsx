@@ -65,7 +65,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
-          <section className="other-app2">
+          {/* <section className="other-app2">
             <a href="https://desolate-savannah-46202.herokuapp.com/">
               <img
                 id="tech-blog"
@@ -79,7 +79,7 @@ function Portfolio() {
                 <p>Create Posts About Tech</p>
               </a>
             </section>
-          </section>
+          </section> */}
           <section className="other-app2">
             <a href="https://thomasjshea.github.io/character-generator/">
               <img

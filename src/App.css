@@ -77,13 +77,12 @@ a {
 }
 
 .resumé {
-  display:block;
-  text-align: center;
-  margin-left: 595px;
-  margin-top: 20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 125px;
   border: rgb(255, 181, 0) 2px solid;
   border-radius: 35px;
-  flex-direction: column;
   font-size:x-large;
   color: maroon;
   background-color: antiquewhite;
@@ -98,10 +97,10 @@ a {
 
 #resumé {
   display:flex;
-  flex-direction: column;
+  justify-content: center;
+  text-align: center;
   align-items:center;
-  margin-right: 615px;
-  position: relative
+  margin-bottom: 110px;
 }
 
 
@@ -289,7 +288,7 @@ h2 {
   text-align:center; 
   padding:20px;
   margin-top:20px;
-  width:100%
+  width:100%;
 }
 
 /* neatly organizes contact info in footer */
