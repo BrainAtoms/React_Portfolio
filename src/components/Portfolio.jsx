@@ -1,55 +1,66 @@
 import React from "react";
 import "../App.css";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Portfolio() {
-    return (
-        <div>
-        <h2 className="titles" id="Portfolio">
-          Portfolio
-        </h2>
-<section className="other-apps">
+  return (
+    <div>
+      <h2 className="titles" id="Portfolio">
+        Portfolio
+      </h2>
+      <section className="other-apps">
         <section className="first-app">
           <a href="https://www.arborlaborunion.com">
+            <div id="desc">
+            <h4>Arbor Labor Union Band Website</h4>
+            </div>
             <img src={require("../images/IMG_9822.jpg")} alt="ALU/"></img>
           </a>
           <section className="text-block">
             <a href="https://github.com/BrainAtoms/ALU-site" className="link">
-              <h4>Arbor Labor Union</h4>
-              <p>Band Website</p>
+              <FontAwesomeIcon icon={faGithub} size="2xl" />
             </a>
           </section>
         </section>
         <section className="other-apps">
           <section className="other-app1">
             <a href="https://brainatoms.github.io/Coding_Quiz/">
+              <h4>Coding Quiz (HTML, CSS, Javascript)</h4>
               <img
                 src={require("../images/coding_quiz.png")}
                 alt="Coding_Quiz/"
               ></img>
             </a>
             <section className="text-block2">
-              <a href="https://github.com/BrainAtoms/Coding_Quiz" className="link">
-                <h4>Coding Quiz</h4>
-                <p>HTML, CSS, Javascript</p>
+              <a
+                href="https://github.com/BrainAtoms/Coding_Quiz"
+                className="link"
+              >
+                <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
           </section>
           <section className="other-app2">
             <a href="https://damp-reaches-78303.herokuapp.com/">
+              <h4>Snack Shack Appetizer Archive</h4>
               <img
                 src={require("../images/Screen_Shot 2023-05-09 at 9.25.18 PM (2).png")}
                 alt="Snack_Shack/"
               ></img>
             </a>
             <section className="text-block3">
-              <a href="https://github.com/BrainAtoms/Snack_Shack/" className="link">
-                <h4>Snack Shack</h4>
-                <p>Appetizer Archive</p>
+              <a
+                href="https://github.com/BrainAtoms/Snack_Shack/"
+                className="link"
+              >
+                <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
           </section>
           <section className="other-app2">
             <a href="https://brainatoms.github.io/Weather_Dashboard/">
+              <h4>Weather Dashboard- Search 5 Day Forecast</h4>
               <img
                 src={require("../images/Weather_Dashboard.png")}
                 alt="Weather_Dashboard/"
@@ -60,8 +71,7 @@ function Portfolio() {
                 href="https://github.com/BrainAtoms/Weather_Dashboard"
                 className="link"
               >
-                <h4>Weather Dashboard</h4>
-                <p>Search 5 Day Forecast</p>
+                <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
           </section>
@@ -82,6 +92,7 @@ function Portfolio() {
           </section> */}
           <section className="other-app2">
             <a href="https://thomasjshea.github.io/character-generator/">
+              <h4>Character Generator- Randomize D&D Stats</h4>
               <img
                 src={require("../images/Character_Generator.png")}
                 alt="Character_Generator/"
@@ -92,32 +103,28 @@ function Portfolio() {
                 href="https://github.com/BrainAtoms/character-generator"
                 className="link"
               >
-                <h4>Character Generator</h4>
-                <p>Randomize D&D Stats</p>
+                <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
-            </section>
-            <section className="other-app2">
+          </section>
+          <section className="other-app2">
             <a href="https://afternoon-mesa-22613-3fdd9a909bc7.herokuapp.com/">
+              <h4>Trip Planner- Search and Save Food and Fun</h4>
               <img
                 src={require("../images/Screen Shot 2023-07-14 at 12.22.40 AM (2).png")}
                 alt="Trip_Planner/"
               ></img>
             </a>
             <section className="text-block3">
-              <a
-                href="https://github.com/Ruskin20/Travel-Log"
-                className="link"
-              >
-                <h4>Trip Planner</h4>
-                <p>Search and Save Food and Fun</p>
+              <a href="https://github.com/Ruskin20/Travel-Log" className="link">
+                <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
           </section>
-            </section>
-            </section>
-            </div>
-            );
+        </section>
+      </section>
+    </div>
+  );
 }
-    
-export default Portfolio; 
+
+export default Portfolio;
