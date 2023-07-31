@@ -19,6 +19,11 @@
 
 .title {
   font-size: 70px;
+  cursor: pointer;
+}
+
+.title:hover {
+  color: yellow;
 }
 
 /* organizes nav links neatly under page title */

@@ -3,7 +3,7 @@ import React from "react";
 function AboutMe() {
   return (
     <article className="article">
-      <img src={require("../images/IMG_5423.jpg")} alt="Brain_Atoms/"></img>
+      <img src={require("../images/IMG_4A1A2878BFDE-1.jpeg")} alt="Brain_Atoms/"></img>
       <h2 className="titles" id="About Me">
         About Me
       </h2>

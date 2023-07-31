@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <header className="header">
         <nav className="container">
-          <h1 className="title">Brian Adams</h1>
+          <h1 className="title" onClick={() => handleClick("AboutMe")}>Brian Adams</h1>
           <ul className="header">
             <li>
               <p className="navLink" onClick={() => handleClick("AboutMe")}>About Me</p>

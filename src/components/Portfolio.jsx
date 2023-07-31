@@ -13,7 +13,7 @@ function Portfolio() {
         <section className="first-app">
           <a href="https://www.arborlaborunion.com">
             <div id="desc">
-            <h4>Arbor Labor Union Band Website</h4>
+              <h4>Arbor Labor Union Band Website</h4>
             </div>
             <img src={require("../images/IMG_9822.jpg")} alt="ALU/"></img>
           </a>
@@ -91,7 +91,7 @@ function Portfolio() {
             </section>
           </section> */}
           <section className="other-app2">
-            <a href="https://thomasjshea.github.io/character-generator/">
+            <a href="https://brainatoms.github.io/Stat_Generator/">
               <h4>Character Generator- Randomize D&D Stats</h4>
               <img
                 src={require("../images/Character_Generator.png")}
@@ -107,7 +107,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
-          <section className="other-app2">
+          {/* <section className="other-app2">
             <a href="https://afternoon-mesa-22613-3fdd9a909bc7.herokuapp.com/">
               <h4>Trip Planner- Search and Save Food and Fun</h4>
               <img
@@ -120,7 +120,7 @@ function Portfolio() {
                 <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
-          </section>
+          </section> */}
         </section>
       </section>
     </div>
