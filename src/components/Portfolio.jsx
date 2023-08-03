@@ -100,7 +100,7 @@ function Portfolio() {
             </a>
             <section className="text-block3">
               <a
-                href="https://github.com/BrainAtoms/character-generator"
+                href="https://github.com/BrainAtoms/Stat_Generator"
                 className="link"
               >
                 <FontAwesomeIcon icon={faGithub} size="2xl" />
