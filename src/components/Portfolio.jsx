@@ -25,16 +25,16 @@ function Portfolio() {
         </section>
         <section className="other-apps">
           <section className="other-app1">
-            <a href="https://brainatoms.github.io/Coding_Quiz/">
-              <h4>Coding Quiz (HTML, CSS, Javascript)</h4>
+            <a href="https://brainatoms.github.io/The_Grateful_Dead_Quiz/">
+              <h4>The Grateful Dead Quiz</h4>
               <img
-                src={require("../images/coding_quiz.png")}
+                src={require("../images/Screen Shot 2023-09-02 at 9.07.52 PM.png")}
                 alt="Coding_Quiz/"
               ></img>
             </a>
             <section className="text-block2">
               <a
-                href="https://github.com/BrainAtoms/Coding_Quiz"
+                href="https://github.com/BrainAtoms/The_Grateful_Dead_Quiz"
                 className="link"
               >
                 <FontAwesomeIcon icon={faGithub} size="2xl" />
