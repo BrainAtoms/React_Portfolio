@@ -23,6 +23,7 @@ function Portfolio() {
             </a>
           </section>
         </section>
+        <p>Website for the band Arbor Labor Union containing music videos, information about shows, etc. (HTML, CSS)</p>
         <section className="other-apps">
           <section className="other-app1">
             <a href="https://brainatoms.github.io/The_Grateful_Dead_Quiz/">
@@ -41,6 +42,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
+          <p>Timed quiz made up of questions relating The Grateful Dead. (HTML, CSS, Javascript)</p>
           <section className="other-app2">
             <a href="https://damp-reaches-78303.herokuapp.com/">
               <h4>Snack Shack Appetizer Archive</h4>
@@ -58,6 +60,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
+          <p>Archival website that allows users to sign up/log in and post their own appetizer recipes. (HTML, CSS, Tailwind, Javascript, SQL)</p>
           <section className="other-app2">
             <a href="https://brainatoms.github.io/Weather_Dashboard/">
               <h4>Weather Dashboard- Search 5 Day Forecast</h4>
@@ -75,6 +78,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
+          <p>Website that provides a 5 day forecast for any city searched by the user.</p>
           {/* <section className="other-app2">
             <a href="https://desolate-savannah-46202.herokuapp.com/">
               <img
@@ -107,7 +111,8 @@ function Portfolio() {
               </a>
             </section>
           </section>
-          {/* <section className="other-app2">
+          <p>Website that allows users to create random stats for a new Dungeons and Dragons character. (HTML, CSS, Bulma, Javascript)</p>
+          <section className="other-app2">
             <a href="https://afternoon-mesa-22613-3fdd9a909bc7.herokuapp.com/">
               <h4>Trip Planner- Search and Save Food and Fun</h4>
               <img
@@ -120,7 +125,8 @@ function Portfolio() {
                 <FontAwesomeIcon icon={faGithub} size="2xl" />
               </a>
             </section>
-          </section> */}
+          </section>
+          <p>Trip planning site that allows users to sign up/log in and search for food, entertainment or adventure. (React, HTML, CSS, MongoDB, GraphQL)</p>
         </section>
       </section>
     </div>
