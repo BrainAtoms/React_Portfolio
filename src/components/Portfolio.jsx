@@ -78,7 +78,7 @@ function Portfolio() {
               </a>
             </section>
           </section>
-          <p>Website that provides a 5 day forecast for any city searched by the user.</p>
+          <p>Website that provides a 5 day forecast for any city searched by the user. (HTML, CSS, Javascript)</p>
           {/* <section className="other-app2">
             <a href="https://desolate-savannah-46202.herokuapp.com/">
               <img
